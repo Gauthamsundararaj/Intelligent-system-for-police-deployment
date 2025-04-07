@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🚓 Police Deployment Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background: #f9f9f9; }
+    h1 { font-size: 2rem; margin-bottom: 20px; }
+    canvas { margin-bottom: 40px; }
+  </style>
+</head>
+<body>
+  <h1>🚓 Police Deployment Dashboard</h1>
+
+  <canvas id="hourChart" width="600" height="300"></canvas>
+  <canvas id="locationChart" width="600" height="300"></canvas>
+
+  <script>
+    async function fetchCrimeData() {
+      const res = await fetch('http://127.0.0.1:5000/visualize');
+      const data = await res.json();
+
+      // Crime by Hour Chart
+      new Chart(document.getElementById('hourChart'), {
+        type: 'bar',
+        data: {
+          labels: Object.keys(data.crime_by_hour),
+          datasets: [{
+            label: 'Crimes by Hour',
+            data: Object.values(data.crime_by_hour),
+            backgroundColor: 'rgba(54, 162, 235, 0.7)',
+          }]
+        },
+        options: {
+          responsive: true,
+          scales: { y: { beginAtZero: true } }
+        }
+      });
+
+      // Crime by Location Chart
+      new Chart(document.getElementById('locationChart'), {
+        type: 'bar',
+        data: {
+          labels: Object.keys(data.crime_by_location),
+          datasets: [{
+            label: 'Crimes by Location',
+            data: Object.values(data.crime_by_location),
+            backgroundColor: 'rgba(255, 99, 132, 0.7)',
+          }]
+        },
+        options: {
+          responsive: true,
+          scales: { y: { beginAtZero: true } }
+        }
+      });
+    }
+
+    fetchCrimeData();
+  </script>
+</body>
+</html>

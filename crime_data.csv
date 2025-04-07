@@ -1,0 +1,501 @@
+date,time,location,crime_type
+2023-10-28,11:11,Suburb,Vandalism
+2023-04-13,04:02,Industrial Area,Assault
+2023-04-08,01:57,Downtown,Assault
+2023-11-27,14:25,Suburb,Vandalism
+2023-10-05,15:39,Industrial Area,Robbery
+2023-05-13,10:48,Suburb,Theft
+2023-10-13,03:55,Suburb,Theft
+2023-07-06,08:34,Suburb,Vandalism
+2023-03-31,09:03,Suburb,Robbery
+2023-08-18,03:22,Industrial Area,Robbery
+2023-07-31,23:41,Uptown,Vandalism
+2023-09-02,06:16,Suburb,Theft
+2023-01-29,03:09,Uptown,Burglary
+2023-12-20,15:02,Uptown,Vandalism
+2023-07-08,09:44,Downtown,Assault
+2023-09-10,06:39,Industrial Area,Assault
+2023-11-01,00:45,Suburb,Robbery
+2023-03-06,06:58,Parkside,Burglary
+2023-06-14,02:12,Downtown,Theft
+2023-04-24,03:30,Suburb,Assault
+2023-08-26,06:05,Parkside,Assault
+2023-09-20,08:43,Downtown,Assault
+2023-03-02,21:50,Industrial Area,Robbery
+2023-09-06,08:29,Industrial Area,Theft
+2023-04-06,17:16,Downtown,Burglary
+2023-11-11,13:51,Downtown,Theft
+2023-07-28,14:17,Downtown,Vandalism
+2023-01-12,20:18,Downtown,Vandalism
+2023-12-04,12:48,Industrial Area,Theft
+2023-11-06,21:13,Uptown,Robbery
+2023-10-13,16:07,Industrial Area,Robbery
+2023-01-03,16:46,Downtown,Theft
+2023-10-16,19:37,Suburb,Robbery
+2023-12-21,01:40,Downtown,Vandalism
+2023-04-23,06:12,Downtown,Theft
+2023-02-15,20:58,Industrial Area,Assault
+2023-12-31,01:41,Downtown,Vandalism
+2023-07-11,22:59,Downtown,Robbery
+2023-01-23,17:30,Uptown,Assault
+2023-09-18,04:31,Suburb,Robbery
+2023-09-09,01:46,Uptown,Vandalism
+2023-05-03,20:20,Suburb,Vandalism
+2023-12-09,02:02,Uptown,Assault
+2023-07-24,02:05,Industrial Area,Robbery
+2023-01-28,23:34,Suburb,Assault
+2023-10-06,22:12,Uptown,Vandalism
+2023-06-08,03:17,Suburb,Robbery
+2023-12-28,13:55,Industrial Area,Robbery
+2023-09-07,19:11,Parkside,Assault
+2023-11-11,14:49,Uptown,Assault
+2023-02-21,01:00,Downtown,Assault
+2023-02-17,01:54,Uptown,Assault
+2023-03-26,01:37,Suburb,Robbery
+2023-02-05,13:42,Suburb,Theft
+2023-12-17,12:17,Uptown,Robbery
+2023-08-15,03:43,Parkside,Vandalism
+2023-04-24,23:50,Downtown,Robbery
+2023-03-11,00:13,Downtown,Robbery
+2023-03-10,19:34,Downtown,Assault
+2023-09-09,22:32,Parkside,Robbery
+2023-08-26,12:47,Suburb,Burglary
+2023-05-26,04:43,Industrial Area,Theft
+2023-05-19,10:38,Downtown,Theft
+2023-02-23,04:18,Uptown,Assault
+2023-01-18,22:57,Suburb,Theft
+2023-02-28,05:59,Industrial Area,Robbery
+2023-03-31,23:33,Parkside,Vandalism
+2023-02-28,11:39,Uptown,Assault
+2023-06-19,03:15,Suburb,Robbery
+2023-09-06,02:21,Parkside,Assault
+2023-08-19,07:55,Uptown,Burglary
+2023-10-16,23:29,Downtown,Theft
+2023-11-21,14:15,Parkside,Robbery
+2023-11-01,07:49,Suburb,Theft
+2023-08-03,17:40,Industrial Area,Vandalism
+2023-03-08,09:16,Parkside,Burglary
+2023-05-18,23:35,Suburb,Assault
+2023-03-13,20:09,Parkside,Assault
+2023-08-05,03:22,Parkside,Assault
+2023-04-10,00:20,Parkside,Vandalism
+2023-04-19,07:42,Uptown,Robbery
+2023-10-03,14:41,Industrial Area,Burglary
+2023-06-12,03:34,Parkside,Robbery
+2023-06-28,01:02,Industrial Area,Vandalism
+2023-03-23,17:09,Uptown,Burglary
+2023-01-03,22:28,Suburb,Assault
+2023-06-07,02:18,Suburb,Theft
+2023-11-07,10:36,Parkside,Robbery
+2023-08-10,04:13,Parkside,Burglary
+2023-08-16,00:39,Suburb,Theft
+2023-07-01,06:41,Industrial Area,Robbery
+2023-01-09,00:36,Uptown,Robbery
+2023-01-26,10:06,Downtown,Vandalism
+2023-06-03,09:36,Industrial Area,Theft
+2023-10-13,03:25,Downtown,Burglary
+2023-07-17,12:16,Uptown,Robbery
+2023-10-08,22:46,Downtown,Vandalism
+2023-01-16,11:21,Suburb,Robbery
+2023-12-13,04:09,Uptown,Assault
+2023-12-11,23:40,Downtown,Vandalism
+2023-01-11,17:22,Uptown,Vandalism
+2023-11-01,04:48,Downtown,Robbery
+2023-08-10,10:47,Suburb,Vandalism
+2023-04-01,11:28,Suburb,Robbery
+2023-03-19,10:11,Industrial Area,Theft
+2023-03-06,12:46,Suburb,Burglary
+2023-01-11,07:09,Downtown,Theft
+2023-01-25,20:47,Industrial Area,Robbery
+2023-10-18,05:29,Industrial Area,Theft
+2023-05-16,17:12,Suburb,Assault
+2023-06-03,01:52,Suburb,Theft
+2023-02-08,12:19,Industrial Area,Assault
+2023-03-08,03:25,Parkside,Assault
+2023-05-20,21:50,Industrial Area,Vandalism
+2023-12-01,14:42,Industrial Area,Assault
+2023-03-25,14:51,Uptown,Theft
+2023-11-16,14:29,Industrial Area,Robbery
+2023-12-24,03:30,Downtown,Burglary
+2023-03-12,14:25,Uptown,Robbery
+2023-05-11,04:03,Downtown,Vandalism
+2023-09-10,09:28,Suburb,Robbery
+2023-04-11,12:42,Industrial Area,Robbery
+2023-05-11,04:06,Industrial Area,Burglary
+2023-02-21,01:01,Downtown,Robbery
+2023-08-24,17:55,Uptown,Robbery
+2023-03-04,02:00,Downtown,Vandalism
+2023-12-05,00:32,Industrial Area,Assault
+2023-11-27,23:42,Parkside,Assault
+2023-03-06,03:07,Industrial Area,Robbery
+2023-06-27,05:38,Suburb,Vandalism
+2023-04-29,16:30,Uptown,Robbery
+2023-05-11,19:06,Uptown,Assault
+2023-06-25,19:50,Downtown,Burglary
+2023-06-14,18:18,Industrial Area,Vandalism
+2023-01-11,08:12,Suburb,Assault
+2023-01-15,18:30,Downtown,Robbery
+2023-11-30,10:59,Downtown,Burglary
+2023-06-02,13:34,Parkside,Assault
+2023-07-22,06:29,Downtown,Assault
+2023-08-27,01:32,Suburb,Burglary
+2023-01-28,07:52,Uptown,Robbery
+2023-12-16,18:19,Suburb,Burglary
+2023-12-30,11:37,Uptown,Robbery
+2023-01-04,22:58,Uptown,Vandalism
+2023-06-14,07:56,Downtown,Theft
+2023-10-07,04:24,Uptown,Vandalism
+2023-06-14,16:34,Industrial Area,Burglary
+2023-04-14,11:07,Downtown,Burglary
+2023-12-08,15:05,Downtown,Robbery
+2023-04-20,00:02,Industrial Area,Theft
+2023-07-10,19:05,Suburb,Theft
+2023-04-28,13:04,Uptown,Assault
+2023-12-17,09:24,Suburb,Theft
+2023-12-02,08:38,Parkside,Burglary
+2023-06-11,08:17,Uptown,Burglary
+2023-01-21,15:39,Uptown,Theft
+2023-04-02,15:18,Parkside,Burglary
+2023-06-07,15:46,Parkside,Theft
+2023-03-04,15:30,Downtown,Theft
+2023-06-22,09:18,Parkside,Assault
+2023-08-19,17:43,Downtown,Vandalism
+2023-11-26,23:08,Suburb,Robbery
+2023-01-16,10:25,Industrial Area,Vandalism
+2023-03-25,06:57,Downtown,Assault
+2023-03-15,07:33,Downtown,Vandalism
+2023-12-07,23:27,Downtown,Robbery
+2023-10-27,22:40,Parkside,Assault
+2023-08-05,16:27,Uptown,Robbery
+2023-01-07,13:26,Suburb,Assault
+2023-08-06,17:16,Industrial Area,Burglary
+2023-05-03,04:55,Parkside,Robbery
+2023-01-05,07:22,Parkside,Burglary
+2023-10-27,17:39,Industrial Area,Burglary
+2023-12-07,02:53,Industrial Area,Robbery
+2023-04-14,23:24,Downtown,Robbery
+2023-12-09,00:53,Downtown,Vandalism
+2023-08-16,23:20,Suburb,Robbery
+2023-03-01,09:59,Uptown,Burglary
+2023-10-18,08:36,Suburb,Assault
+2023-12-13,16:35,Parkside,Assault
+2023-09-27,04:32,Uptown,Burglary
+2023-08-30,15:36,Suburb,Robbery
+2023-11-11,07:33,Uptown,Robbery
+2023-09-05,09:13,Downtown,Theft
+2023-01-16,13:28,Uptown,Vandalism
+2023-11-02,06:04,Uptown,Vandalism
+2023-01-16,08:02,Parkside,Assault
+2023-11-10,00:08,Downtown,Vandalism
+2023-03-12,21:56,Uptown,Robbery
+2023-10-13,21:55,Parkside,Theft
+2023-01-14,21:12,Suburb,Robbery
+2023-07-10,02:52,Uptown,Theft
+2023-04-05,06:08,Downtown,Robbery
+2023-09-24,07:17,Parkside,Robbery
+2023-02-24,16:38,Parkside,Assault
+2023-04-16,11:44,Suburb,Burglary
+2023-04-14,01:08,Suburb,Vandalism
+2023-07-25,20:10,Parkside,Vandalism
+2023-01-10,04:40,Parkside,Assault
+2023-06-15,01:26,Industrial Area,Theft
+2023-07-10,11:39,Suburb,Vandalism
+2023-05-22,19:37,Industrial Area,Vandalism
+2023-01-25,16:29,Uptown,Burglary
+2023-11-27,03:57,Uptown,Burglary
+2023-02-19,14:59,Industrial Area,Assault
+2023-01-21,19:08,Suburb,Burglary
+2023-12-16,17:40,Parkside,Burglary
+2023-06-30,06:55,Uptown,Theft
+2023-11-29,22:35,Downtown,Robbery
+2023-02-01,09:45,Parkside,Assault
+2023-10-16,17:39,Parkside,Burglary
+2023-03-12,05:06,Uptown,Burglary
+2023-10-19,14:40,Parkside,Theft
+2023-02-19,16:47,Suburb,Vandalism
+2023-08-25,00:17,Parkside,Robbery
+2023-10-05,06:17,Industrial Area,Burglary
+2023-05-25,23:59,Suburb,Burglary
+2024-01-01,04:37,Uptown,Burglary
+2023-04-02,19:55,Industrial Area,Robbery
+2023-04-02,23:36,Downtown,Robbery
+2023-10-02,02:10,Suburb,Vandalism
+2023-05-10,12:54,Industrial Area,Assault
+2023-12-19,19:09,Parkside,Burglary
+2023-03-18,11:13,Industrial Area,Burglary
+2023-04-09,02:12,Parkside,Theft
+2023-04-26,01:27,Parkside,Theft
+2023-09-18,06:05,Industrial Area,Vandalism
+2023-04-30,22:03,Industrial Area,Burglary
+2023-04-10,10:11,Uptown,Burglary
+2023-08-24,20:23,Parkside,Assault
+2023-01-02,17:18,Downtown,Burglary
+2023-01-14,22:33,Suburb,Assault
+2023-10-27,23:48,Parkside,Robbery
+2023-03-30,12:13,Industrial Area,Robbery
+2023-04-14,08:26,Parkside,Assault
+2023-05-02,22:58,Downtown,Theft
+2023-03-25,07:09,Downtown,Robbery
+2023-05-07,16:33,Downtown,Theft
+2023-06-23,19:03,Uptown,Burglary
+2023-03-05,04:36,Downtown,Theft
+2023-02-02,08:34,Parkside,Assault
+2023-04-30,01:30,Suburb,Burglary
+2023-02-15,10:32,Suburb,Assault
+2023-11-18,03:42,Downtown,Burglary
+2023-11-12,16:37,Industrial Area,Assault
+2023-03-16,15:33,Uptown,Vandalism
+2023-11-09,04:49,Industrial Area,Robbery
+2023-07-09,10:54,Uptown,Vandalism
+2023-10-10,04:36,Parkside,Burglary
+2023-07-17,06:08,Parkside,Vandalism
+2023-12-29,21:13,Suburb,Burglary
+2023-09-10,03:55,Uptown,Assault
+2023-03-28,11:29,Downtown,Theft
+2023-05-17,13:03,Parkside,Theft
+2023-09-17,20:24,Parkside,Vandalism
+2023-08-11,16:25,Downtown,Vandalism
+2023-12-25,22:05,Suburb,Assault
+2023-08-29,10:07,Uptown,Burglary
+2023-03-15,18:46,Uptown,Assault
+2023-05-20,00:11,Industrial Area,Assault
+2023-05-25,05:50,Downtown,Burglary
+2023-11-26,16:09,Uptown,Theft
+2023-12-19,05:30,Industrial Area,Robbery
+2023-12-09,10:21,Suburb,Vandalism
+2023-06-09,07:09,Uptown,Vandalism
+2023-10-31,04:24,Uptown,Vandalism
+2023-01-17,09:40,Downtown,Theft
+2023-04-17,13:00,Industrial Area,Assault
+2023-12-20,23:12,Parkside,Theft
+2023-07-20,04:50,Uptown,Vandalism
+2023-10-21,12:39,Parkside,Robbery
+2023-10-20,13:08,Uptown,Theft
+2023-10-18,10:09,Uptown,Vandalism
+2023-10-24,20:11,Suburb,Vandalism
+2023-08-22,02:56,Suburb,Assault
+2023-09-04,06:05,Parkside,Robbery
+2023-09-10,20:03,Uptown,Vandalism
+2023-10-12,15:41,Industrial Area,Robbery
+2023-12-28,05:14,Parkside,Robbery
+2023-05-04,09:12,Suburb,Theft
+2023-06-28,22:28,Suburb,Assault
+2023-03-22,00:33,Parkside,Theft
+2023-08-06,21:46,Downtown,Burglary
+2023-03-31,14:39,Downtown,Robbery
+2023-07-20,23:04,Uptown,Theft
+2023-10-23,07:20,Downtown,Vandalism
+2023-08-25,00:26,Parkside,Assault
+2023-07-14,18:13,Uptown,Robbery
+2023-04-06,07:44,Downtown,Vandalism
+2023-04-23,23:59,Parkside,Robbery
+2023-03-31,19:12,Uptown,Assault
+2023-10-11,11:08,Uptown,Theft
+2023-03-09,14:13,Uptown,Burglary
+2023-12-17,18:18,Downtown,Assault
+2023-10-06,13:07,Downtown,Theft
+2023-01-07,13:59,Parkside,Burglary
+2023-09-24,16:47,Industrial Area,Vandalism
+2023-09-15,09:18,Suburb,Assault
+2023-07-01,19:42,Uptown,Robbery
+2023-06-30,10:04,Suburb,Assault
+2023-01-27,00:45,Downtown,Burglary
+2023-12-25,19:24,Suburb,Assault
+2023-11-18,14:35,Industrial Area,Robbery
+2023-11-25,08:47,Parkside,Assault
+2023-04-24,01:07,Parkside,Burglary
+2023-07-13,00:54,Parkside,Theft
+2023-10-30,09:40,Downtown,Theft
+2023-12-05,21:00,Industrial Area,Vandalism
+2023-02-15,18:38,Suburb,Theft
+2023-02-19,12:46,Uptown,Assault
+2023-02-23,16:13,Parkside,Burglary
+2023-06-10,15:51,Downtown,Theft
+2023-05-11,21:08,Parkside,Assault
+2023-09-23,12:54,Downtown,Burglary
+2023-07-13,04:56,Uptown,Assault
+2023-01-01,06:05,Downtown,Theft
+2023-09-26,00:53,Uptown,Vandalism
+2023-08-04,15:11,Downtown,Vandalism
+2023-01-31,21:09,Industrial Area,Vandalism
+2023-11-03,01:02,Downtown,Vandalism
+2023-02-03,09:57,Parkside,Robbery
+2023-09-11,08:50,Industrial Area,Robbery
+2023-12-26,14:50,Downtown,Vandalism
+2023-12-16,18:14,Downtown,Vandalism
+2023-08-19,12:05,Suburb,Burglary
+2023-04-27,05:31,Industrial Area,Theft
+2023-11-11,14:56,Industrial Area,Vandalism
+2023-01-17,23:54,Suburb,Vandalism
+2023-11-21,15:21,Suburb,Vandalism
+2023-05-21,03:53,Uptown,Robbery
+2023-03-29,01:02,Suburb,Vandalism
+2023-03-09,03:48,Uptown,Robbery
+2023-07-10,21:03,Downtown,Vandalism
+2023-07-21,19:35,Uptown,Robbery
+2023-11-07,10:08,Industrial Area,Theft
+2023-10-26,01:51,Uptown,Vandalism
+2023-01-16,16:26,Industrial Area,Burglary
+2023-05-23,17:36,Industrial Area,Robbery
+2023-09-26,22:34,Industrial Area,Theft
+2023-11-03,08:08,Parkside,Burglary
+2023-08-12,11:45,Uptown,Robbery
+2023-02-10,07:59,Industrial Area,Burglary
+2023-06-30,13:28,Downtown,Vandalism
+2023-05-02,06:14,Uptown,Vandalism
+2023-09-25,12:47,Parkside,Theft
+2023-09-14,13:45,Parkside,Vandalism
+2023-07-18,18:51,Parkside,Burglary
+2023-05-15,18:15,Suburb,Burglary
+2023-12-05,16:13,Uptown,Vandalism
+2023-04-28,13:50,Parkside,Burglary
+2023-02-19,03:05,Industrial Area,Theft
+2023-08-03,15:55,Parkside,Theft
+2023-09-03,02:50,Industrial Area,Theft
+2023-10-19,19:14,Uptown,Theft
+2023-05-08,20:02,Industrial Area,Assault
+2023-02-13,01:14,Uptown,Burglary
+2023-09-23,08:47,Downtown,Burglary
+2023-10-21,18:09,Parkside,Robbery
+2023-08-09,08:55,Parkside,Assault
+2023-07-01,03:19,Uptown,Vandalism
+2023-07-21,20:28,Parkside,Assault
+2023-08-09,00:56,Parkside,Theft
+2023-05-25,05:23,Industrial Area,Vandalism
+2023-04-18,18:01,Parkside,Assault
+2023-07-14,01:29,Parkside,Theft
+2023-09-04,03:32,Suburb,Assault
+2023-01-12,01:00,Industrial Area,Assault
+2023-02-10,18:18,Industrial Area,Burglary
+2023-04-28,03:49,Suburb,Theft
+2023-06-07,04:45,Downtown,Robbery
+2023-06-23,19:08,Industrial Area,Theft
+2023-01-29,13:24,Parkside,Theft
+2023-05-13,01:18,Suburb,Assault
+2023-10-08,01:46,Suburb,Theft
+2023-02-26,01:19,Uptown,Assault
+2023-07-22,21:48,Industrial Area,Vandalism
+2023-10-09,19:44,Downtown,Theft
+2023-05-28,13:59,Suburb,Assault
+2023-10-11,12:46,Suburb,Theft
+2023-12-10,04:03,Downtown,Assault
+2023-05-30,05:20,Uptown,Burglary
+2023-03-08,10:25,Suburb,Theft
+2023-10-12,17:26,Downtown,Assault
+2023-01-29,15:42,Uptown,Robbery
+2023-06-23,14:33,Suburb,Vandalism
+2023-05-05,16:41,Suburb,Robbery
+2023-12-01,08:43,Uptown,Assault
+2023-05-11,03:42,Suburb,Vandalism
+2023-10-18,08:53,Downtown,Vandalism
+2023-09-14,16:12,Industrial Area,Assault
+2023-11-07,17:34,Industrial Area,Theft
+2023-09-18,16:07,Uptown,Assault
+2023-11-15,23:56,Downtown,Vandalism
+2023-11-05,04:34,Industrial Area,Assault
+2023-08-02,15:16,Downtown,Theft
+2023-10-18,21:02,Uptown,Assault
+2023-01-08,19:25,Parkside,Assault
+2023-02-23,15:42,Parkside,Assault
+2023-06-27,20:38,Uptown,Burglary
+2023-04-10,08:47,Downtown,Assault
+2023-04-27,18:48,Downtown,Robbery
+2023-10-10,22:38,Suburb,Burglary
+2023-12-17,21:02,Industrial Area,Burglary
+2023-09-02,16:23,Suburb,Theft
+2023-10-24,23:13,Parkside,Theft
+2023-02-28,10:57,Industrial Area,Assault
+2023-08-06,19:38,Suburb,Robbery
+2023-01-07,02:11,Uptown,Theft
+2023-06-21,19:31,Parkside,Assault
+2023-10-11,11:39,Industrial Area,Assault
+2023-09-07,04:58,Suburb,Theft
+2023-06-24,22:21,Uptown,Burglary
+2023-05-19,20:18,Uptown,Theft
+2023-11-26,06:33,Uptown,Theft
+2023-05-03,02:17,Downtown,Vandalism
+2023-07-09,15:38,Suburb,Vandalism
+2023-10-19,19:37,Downtown,Burglary
+2023-11-10,13:04,Suburb,Vandalism
+2023-12-28,23:36,Parkside,Vandalism
+2023-08-31,00:25,Industrial Area,Vandalism
+2023-08-21,01:08,Uptown,Burglary
+2023-01-26,00:58,Uptown,Burglary
+2023-01-04,05:41,Industrial Area,Assault
+2023-10-08,14:56,Suburb,Robbery
+2023-06-02,15:32,Uptown,Burglary
+2023-05-14,16:37,Downtown,Vandalism
+2023-07-23,08:14,Suburb,Theft
+2023-06-02,21:45,Industrial Area,Burglary
+2023-01-03,02:12,Industrial Area,Robbery
+2023-08-09,23:09,Downtown,Burglary
+2023-06-22,13:35,Uptown,Assault
+2023-12-10,17:24,Industrial Area,Assault
+2023-06-16,16:26,Industrial Area,Theft
+2023-10-02,07:26,Parkside,Robbery
+2023-05-16,06:45,Downtown,Theft
+2023-03-31,20:54,Downtown,Assault
+2023-02-02,18:40,Suburb,Theft
+2023-11-04,22:55,Uptown,Assault
+2023-11-26,15:30,Downtown,Theft
+2023-02-10,16:23,Suburb,Theft
+2023-08-25,11:44,Uptown,Robbery
+2023-04-04,09:41,Industrial Area,Theft
+2023-09-14,17:45,Suburb,Assault
+2023-11-24,15:10,Uptown,Vandalism
+2023-08-26,20:17,Uptown,Burglary
+2023-08-03,19:00,Downtown,Robbery
+2024-01-01,10:01,Downtown,Robbery
+2023-07-08,09:17,Industrial Area,Burglary
+2023-08-07,03:46,Uptown,Burglary
+2023-11-07,10:03,Uptown,Vandalism
+2023-11-17,14:42,Suburb,Robbery
+2023-02-07,01:22,Uptown,Vandalism
+2023-07-17,20:39,Uptown,Robbery
+2023-08-31,21:36,Suburb,Robbery
+2023-03-24,19:24,Parkside,Vandalism
+2023-09-19,21:21,Industrial Area,Burglary
+2023-07-07,11:58,Downtown,Vandalism
+2023-04-30,07:46,Industrial Area,Vandalism
+2023-10-12,19:12,Industrial Area,Robbery
+2023-02-08,18:18,Industrial Area,Theft
+2023-02-07,07:03,Suburb,Robbery
+2023-11-02,20:59,Suburb,Assault
+2023-08-29,20:07,Downtown,Vandalism
+2023-12-14,09:17,Parkside,Assault
+2023-08-05,02:46,Downtown,Assault
+2023-01-07,16:13,Industrial Area,Assault
+2023-03-12,07:18,Industrial Area,Robbery
+2023-07-13,17:23,Downtown,Burglary
+2023-06-11,07:52,Downtown,Burglary
+2023-07-16,21:29,Parkside,Burglary
+2023-12-25,06:06,Parkside,Burglary
+2023-04-09,08:12,Uptown,Vandalism
+2023-04-15,02:21,Downtown,Theft
+2023-03-18,07:30,Parkside,Theft
+2023-05-28,15:02,Uptown,Burglary
+2023-09-01,08:20,Industrial Area,Assault
+2023-12-15,08:36,Parkside,Robbery
+2023-02-06,03:49,Parkside,Assault
+2023-04-17,20:43,Suburb,Burglary
+2023-03-20,21:11,Industrial Area,Robbery
+2023-10-06,15:43,Industrial Area,Robbery
+2023-04-14,19:25,Suburb,Assault
+2023-12-04,01:21,Parkside,Theft
+2023-05-30,06:18,Uptown,Robbery
+2023-06-29,03:42,Downtown,Assault
+2023-06-19,11:28,Parkside,Burglary
+2023-07-11,13:37,Parkside,Vandalism
+2023-06-02,21:58,Parkside,Burglary
+2023-06-04,03:47,Industrial Area,Assault
+2023-06-13,08:40,Downtown,Assault
+2023-08-10,23:09,Uptown,Robbery
+2023-08-14,17:18,Suburb,Burglary
+2023-05-06,23:14,Downtown,Burglary
+2023-02-04,11:39,Downtown,Burglary
+2023-11-20,16:22,Industrial Area,Assault
+2023-05-09,04:56,Uptown,Robbery
+2023-11-04,11:53,Uptown,Assault
+2023-07-09,06:35,Industrial Area,Theft
+2023-07-13,04:54,Downtown,Robbery
+2023-02-03,04:08,Industrial Area,Theft
